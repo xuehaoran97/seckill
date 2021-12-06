@@ -76,3 +76,8 @@ redis 原始配置文件目录 /usr/local/redis/redis-6.0.5/redis.conf
 /opt/redis6/bin/redis-cli
 ```
 
+
+
+推荐的客户端
+
+Another desktop manager
